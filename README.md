@@ -16,7 +16,7 @@ This project presents the design, fabrication, and application of an Automated P
 ### Plate Detection:
 * Recognizing plates on the tables or platforms
 * Trained by YOLOv8 model
-* Dataset from Robotflow
+* Dataset from Roboflow
 ### Robotic Arm Motion:
 
 ### ROS2
