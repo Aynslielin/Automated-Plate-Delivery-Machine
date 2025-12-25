@@ -9,4 +9,13 @@ This project presents the design, fabrication, and application of an Automated P
 - **Advisor**: Prof. Chih-Yung Cheng
 - **Researcher**: Hsin-Wei Lin
 ---
-## 
+## Materials
+
+---
+## Applications
+### Plate Detection:
+Recognizing plates on the tables or platforms
+### Robotic Arm Motion:
+
+### ROS2
+---
