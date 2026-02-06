@@ -17,8 +17,8 @@ Originally developed on a Raspberry Pi 4, the computing core has been successful
 ## System Architecture
 ### 1. Hardware Specifications
 | Component | Specification | Function |
-|-----------|---------------|----------|
-
+| :--- | :--- | :--- |
+|
 
 ---
 ## Applications
