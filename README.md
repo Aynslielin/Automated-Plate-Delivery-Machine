@@ -18,7 +18,7 @@ Originally developed on a Raspberry Pi 4, the computing core has been successful
 ### 1. Hardware Specifications
 | Component | Specification | Function |
 | :--- | :--- | :--- |
-|
+| **Computing Core** | **NVIDIA Jetson Orin Nano** | Deep learning inference (YOLOv8) & High-level control |
 
 ---
 ## Applications
