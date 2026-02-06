@@ -18,8 +18,16 @@ Originally developed on a Raspberry Pi 4, the computing core has been successful
 ### 1. Hardware Specifications
 | Component | Specification | Function |
 | :--- | :--- | :--- |
-| **Computing Core** | **NVIDIA Jetson Orin Nano** | Deep learning inference (YOLOv8) & High-level control |
-
+| **Computing Core** | **NVIDIA Jetson Orin Nano** | Deep learning inference (YOLOv8) & High-level control |  
+| **Vision Sensor** | USB / CSI Camera | Real-time video stream acquisition |
+| **Microcontroller** | Arduino Mega 2560 | Transmit commands to actuators |  
+| **Manipulator** | Custom 2-DOF Robotic Arm | 3D printed structure designed in **SolidWorks** |  
+| **Actuators** | DC Motor actuator L298N | Chassis movement control and Arm movement control |  
+  
+### 2. Software Stack
+* **Language:** Python 3.8+, C++
+* **Computer Vision:** OpenCV, IC2 Protocols
+* **OS:** Ubuntu 20.04
 ---
 ## Applications
 ### Plate Detection:
