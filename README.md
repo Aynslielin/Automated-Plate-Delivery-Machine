@@ -33,5 +33,5 @@ Originally developed on a Raspberry Pi 4, the computing core has been successful
 * **Language:** Python 3.8+, C++
 * **Computer Vision:** OpenCV, Ultralytics YOLOv8  
 * **Communication:** UART(Jetson ↔ Arduino) / I2C Protocols
-* **OS:** Ubuntu 20.04
+* **OS:** Ubuntu 20.04  (JetPack 5.x)
 ---
