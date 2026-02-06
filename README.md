@@ -30,12 +30,3 @@ Originally developed on a Raspberry Pi 4, the computing core has been successful
 * **Communication:** UART / I2C Protocols
 * **OS:** Ubuntu 20.04
 ---
-## Applications
-### Plate Detection:
-* Recognizing plates on the tables or platforms
-* Trained by YOLOv8 model
-* Dataset from Roboflow
-### Robotic Arm Motion:
-
-### ROS2
----
