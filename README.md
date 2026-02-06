@@ -6,7 +6,7 @@
 ---
 ## Project Demo
 > **Watch the full video demonstration on YouTube:**
-![Watch the Video](https://youtu.be/ru0SwnUDgf8)
+[Watch the Video](https://youtu.be/ru0SwnUDgf8)
 ---
 ## Project Overview
 This project presents the design, fabrication, and implement of an **Automated Plate Delivery Machine**. The system integrates computer vision, robotic manipulation, and mobile mobility to achieve autonomous service tasks.  
