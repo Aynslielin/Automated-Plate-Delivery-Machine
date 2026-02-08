@@ -2,7 +2,7 @@
 **Current Status:** Focusing on integrating plate serving mobility and LiDAR-based obstacle avoidance.
 * Validated mechanical design and YOLOv8 model performance.
 * Transitioned the computing core from **Raspberry Pi 4** to **NVIDIA Jetson Orin Nano** to address computational bottlenecks encountered during YOLOv8-based object detection.
-* Achieved plate-grabbing action by integrating YOLOv8 object detection model and self-designed robotic arm.
+* Achieved precise plate-grabbing action by implementing visual servoing algorithms, enabling the robot to autonomously align its chassis with the target using real-time YOLOv8 feedback .
 ---
 ## Project Demo
 > **Watch the full video demonstration on YouTube:**
