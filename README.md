@@ -31,8 +31,8 @@ Originally developed on a Raspberry Pi 4, the computing core has been successful
 | **Actuators** | DC Motors | Chassis movement control and Arm movement control |  
   
 ### 2. Software Stack
-* **Language:** Python 3.8+, C++
+* **Language:** Python 3.9+, C++
 * **Computer Vision:** OpenCV, Ultralytics YOLOv8  
 * **Communication:** UART(Jetson ↔ Arduino) / I2C Protocols
-* **OS:** Ubuntu 20.04  (JetPack 5.x)
+* **OS:** Ubuntu 22.04  (JetPack 5.x)
 ---
